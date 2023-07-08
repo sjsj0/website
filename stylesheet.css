@@ -148,6 +148,10 @@ a {
   font-size: 14px;
 }
 
+.bgclass{
+    background: #f7f7f7;
+}
+
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
@@ -198,8 +202,4 @@ table {
   background-color: white;
   padding:15px;
 
-}
-
-body {
-  background: #f7f7f7;
 }
