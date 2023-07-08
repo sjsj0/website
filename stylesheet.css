@@ -131,7 +131,6 @@ a {
   font-family: 'futura-pt', 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   color: #1772d0;
-  /* color: #000099; */
   text-decoration: none;
 }
 
@@ -155,6 +154,14 @@ p{
 
 .bgclass{
     background: #f7f7f7;
+}
+
+.content {
+  /* background: #fff;
+  margin-top: 10px; */
+  -webkit-box-shadow: -2px -1px 88px 0px rgba(0, 0, 0, 0.17);
+  -moz-box-shadow: -2px -1px 88px 0px rgba(0, 0, 0, 0.17);
+  box-shadow: -2px -1px 88px 0px rgba(0, 0, 0, 0.17);
 }
 
 strong {
@@ -206,5 +213,4 @@ span.highlight {
 table {
   background-color: white;
   padding:15px;
-
 }
