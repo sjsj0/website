@@ -128,7 +128,10 @@
 /* ************** */
 
 a {
+  font-family: 'futura-pt', 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
   color: #1772d0;
+  /* color: #000099; */
   text-decoration: none;
 }
 
@@ -142,11 +145,12 @@ body,
 td,
 th,
 tr,
-p,
-a {
+p{
   font-family: 'futura-pt', 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
-  color:#333333;
+  color: #474747;
+  /* color:#333333; */
+  /* line-height: 18px; */
 }
 
 .bgclass{
